@@ -7,6 +7,9 @@ A simple list of useful react resources
 * A “Hello, World” Example for React: https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd
 * Building a media block: https://speakerdeck.com/nicolesullivan/building-the-media-block-in-reactjs
 
+##Starting project
+* @granze https://github.com/Granze/react-starterify
+
 ##Static Site generator
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
 * http://braddenver.com/blog/2015/react-static-site.html
