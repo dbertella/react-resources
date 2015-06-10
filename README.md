@@ -8,7 +8,9 @@ A simple list of useful react resources
 * Building a media block: https://speakerdeck.com/nicolesullivan/building-the-media-block-in-reactjs
 
 ##Starting project
-* @granze https://github.com/Granze/react-starterify
+* Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify
+* Webpack, Babel: https://github.com/gaearon/react-hot-boilerplate
+* React starter kit: https://github.com/kriasoft/react-starter-kit
 
 ##Static Site generator
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
