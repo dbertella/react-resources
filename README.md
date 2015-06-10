@@ -18,3 +18,6 @@ A simple list of useful react resources
 
 ## React Native
 * When is React Native Android coming? http://www.reactnativeandroid.com/
+
+##React news
+* http://reactjsnewsletter.com/
