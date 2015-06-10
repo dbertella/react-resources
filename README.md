@@ -9,3 +9,6 @@ React training: https://github.com/ryanflorence/react-training
 Building a media block
 https://speakerdeck.com/nicolesullivan/building-the-media-block-in-reactjs
 
+##Static Site generator
+* http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
+* http://braddenver.com/blog/2015/react-static-site.html
