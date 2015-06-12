@@ -16,7 +16,7 @@ A simple list of useful react resources
 * http://braddenver.com/blog/2015/react-static-site.html
 
 ## Isomorphic React
-*Sgtrongloop: https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
+* Strongloop: https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 * React starter kit: https://github.com/kriasoft/react-starter-kit
 
 ## React Native
