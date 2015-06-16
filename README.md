@@ -10,7 +10,6 @@ A simple list of useful react resources
 ##Starting project
 * Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify
 * Webpack, Babel: https://github.com/gaearon/react-hot-boilerplate
-* Flux: http://fluxible.io/
 
 ##Static Site generator
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
@@ -19,6 +18,7 @@ A simple list of useful react resources
 ## Isomorphic React
 * Strongloop: https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 * React starter kit: https://github.com/kriasoft/react-starter-kit
+* Isomorphic Flux applications by Yahoo: http://fluxible.io/
 
 ## React Native
 * When is React Native Android coming? http://www.reactnativeandroid.com/
