@@ -10,6 +10,7 @@ A simple list of useful react resources
 ##Starting project
 * Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify
 * Webpack, Babel: https://github.com/gaearon/react-hot-boilerplate
+* Flux: http://fluxible.io/
 
 ##Static Site generator
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
