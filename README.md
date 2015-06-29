@@ -16,6 +16,9 @@ A simple list of useful react resources
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
 * http://braddenver.com/blog/2015/react-static-site.html
 
+##Styling react app
+* http://survivejs.com/webpack_react/styling_react/
+
 ## Isomorphic React
 * Strongloop: https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/
 * React starter kit: https://github.com/kriasoft/react-starter-kit
