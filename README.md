@@ -10,7 +10,8 @@ A simple list of useful react resources
 
 ##Starting project
 * Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify (working example with react router -> https://github.com/dbertella/react-resources/blob/master/app.jsx)
-* Webpack, Babel: https://github.com/gaearon/react-hot-boilerplate
+* Webpack, Babel, hot-reload: https://github.com/gaearon/react-hot-boilerplate
+* Webpack, Babel: https://github.com/vesparny/react-kickstart (I should try this out)
 
 ##Static Site generator
 * http://jxnblk.com/writing/posts/static-site-generation-with-react-and-webpack/
