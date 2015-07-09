@@ -8,6 +8,9 @@ A simple list of useful react resources
 * Building a media block: https://speakerdeck.com/nicolesullivan/building-the-media-block-in-reactjs
 * React router: http://rackt.github.io/react-router/
 
+##React + ES6+ 
+* http://babeljs.io/blog/2015/06/07/react-on-es6-plus/
+
 ##Starting project
 * Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify (working example with react router -> https://github.com/dbertella/react-resources/blob/master/app.jsx)
 * Webpack, Babel, hot-reload: https://github.com/gaearon/react-hot-boilerplate
