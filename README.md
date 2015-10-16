@@ -10,6 +10,7 @@ A simple list of useful react resources
 
 ##React + ES6+ 
 * http://babeljs.io/blog/2015/06/07/react-on-es6-plus/
+* https://medium.com/@tribou/react-and-flux-migrating-to-es6-with-babel-and-eslint-6390cf4fd878
 
 ##Starting project
 * Gulp, browserify,Babel, Scss, Browsersync: https://github.com/Granze/react-starterify (working example with react router -> https://github.com/dbertella/react-resources/blob/master/app.jsx)
