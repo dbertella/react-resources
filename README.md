@@ -30,7 +30,8 @@ A simple list of useful react resources
 * Isomorphic Flux applications by Yahoo: http://fluxible.io/
 
 ## React Native
-* When is React Native Android coming? http://www.reactnativeandroid.com/
+* React native in production: https://medium.com/@clayallsopp/react-native-in-production-2b3c6e6078ad
+* Example: http://jaero.space/blog/imgur-react-native/
 
 ##React news
 * http://reactjsnewsletter.com/
